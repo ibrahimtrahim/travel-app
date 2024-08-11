@@ -55,6 +55,10 @@ body {
     @apply flex items-center justify-end;
   }
 
+  .showNav {
+    @apply visible opacity-100 scale-100
+  }
+
   /* FONTS */
   .regular-64 {
     @apply text-[64px] font-[400] leading-[120%];
