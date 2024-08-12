@@ -1,8 +1,17 @@
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+    { href: '/', key: 'about', label: 'About' },
     { href: '/', key: 'services', label: 'Services' },
-    { href: '/', key: 'pricing ', label: 'Pricing ' },
-    { href: '/', key: 'contact_us', label: 'Contact Us' },
+    { href: '/', key: 'portfolio ', label: 'Portfolio ' },
   ];
+
+  export const SOCIALS = {
+    title: 'Social',
+    links: [
+      '/facebook.svg',
+      '/instagram.svg',
+      '/github.svg',
+      '/linkedin.svg',
+    ],
+  };

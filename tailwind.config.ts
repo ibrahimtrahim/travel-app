@@ -9,13 +9,14 @@ module.exports = {
     extend: {
       colors: {
         green: {
-          50: '#30AF5B',
+          50: '#4418ad',
           90: '#292C27',
         },
         gray: {
           10: '#EEEEEE',
           20: '#A2A2A2',
           30: '#7B7B7B',
+          40: '#efeeed',
           50: '#585858',
           90: '#141414',
         },
